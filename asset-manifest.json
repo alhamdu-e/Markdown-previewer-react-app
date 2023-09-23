@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Markdown-previewer-react-app/static/css/main.9f594ffb.css",
+    "main.js": "/Markdown-previewer-react-app/static/js/main.c4b8accb.js",
+    "static/js/787.a247b03e.chunk.js": "/Markdown-previewer-react-app/static/js/787.a247b03e.chunk.js",
+    "index.html": "/Markdown-previewer-react-app/index.html",
+    "main.9f594ffb.css.map": "/Markdown-previewer-react-app/static/css/main.9f594ffb.css.map",
+    "main.c4b8accb.js.map": "/Markdown-previewer-react-app/static/js/main.c4b8accb.js.map",
+    "787.a247b03e.chunk.js.map": "/Markdown-previewer-react-app/static/js/787.a247b03e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f594ffb.css",
+    "static/js/main.c4b8accb.js"
+  ]
+}
