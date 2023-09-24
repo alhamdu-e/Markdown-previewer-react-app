@@ -1,8 +1,8 @@
 # Markdown-previewer-react-app
-# This is simple react MarkDown Previwer App
+## This is simple react MarkDown Previwer App
 
 ## demo
-[live](https://alhamdu-e.github.io/Markdown-previewer-react-app)
+[https://alhamdu-e.github.io/Markdown-previewer-react-app](https://alhamdu-e.github.io/Markdown-previewer-react-app)
 ## Technology's
 -React
 -HTML
